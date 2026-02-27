@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+devmaster/__init__.py
+devmaster/__main__.py
+devmaster/cli.py
+devmaster/coach.py
+devmaster/learner.py
+devmaster/license.py
+devmaster/nervous_system.py
+devmaster.egg-info/PKG-INFO
+devmaster.egg-info/SOURCES.txt
+devmaster.egg-info/dependency_links.txt
+devmaster.egg-info/entry_points.txt
+devmaster.egg-info/requires.txt
+devmaster.egg-info/top_level.txt
